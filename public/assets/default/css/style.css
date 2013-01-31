@@ -1,0 +1,27 @@
+body { background: #f1f1f1; }
+.page-header h1 { margin-bottom: 10px; }
+.login-container {
+    margin-top: 60px;
+    padding-bottom: 20px;
+    background-color: #fdfdfd;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+    -webkit-box-shadow: 0 0px 15px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 0px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0px 15px rgba(0, 0, 0, 0.3);
+
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.login-center { margin: 0 auto; }
+.login-container .add-on { padding: 10px; }
+.login-container input {
+    font-size: 14px;
+    padding: 10px 15px;
+}

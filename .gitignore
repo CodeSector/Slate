@@ -1,0 +1,10 @@
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
+application/logs/*/*/*
+application/cache/*/*
+application/config/*/db.php
+application/config/db.php
+application/config/crypt.php
+*.DS_Store
+*.idea
+*.xml
